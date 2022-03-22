@@ -14,3 +14,9 @@ C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\obj\Debu
 C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\EFA\SD116\Red Badge\EleventNoteMVCApp\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
