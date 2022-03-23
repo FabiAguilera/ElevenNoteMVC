@@ -8,15 +8,17 @@ using System.Threading.Tasks;
 
 namespace ElevenNote.Models
 {
-    public class NoteListItem
+    public class CategoryListItem
     {
-        public int NoteId { get; set; }
-        public string Title { get; set; }
+        public int CategoryId { get; set; }
+
+        [Display(Name = "Category")]
+        public string CatName { get; set; }
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
 
-        [ForeignKey("Category")]
-        public int CategoryId { get; set; }
+        [ForeignKey("Note")]
+        public int NoteId { get; set; }
     }
 }

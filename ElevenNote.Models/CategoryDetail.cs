@@ -8,11 +8,12 @@ using System.Threading.Tasks;
 
 namespace ElevenNote.Models
 {
-    public class NoteDetail
+    public class CategoryDetail
     {
-        public int NoteId { get; set; }
-        public string Title { get; set; }
-        public string Content { get; set; }
+        public int CategoryId { get; set; }
+
+        [Display(Name = "Category")]
+        public string CatName { get; set; }
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUTc { get; set; }
@@ -20,7 +21,8 @@ namespace ElevenNote.Models
         [Display(Name = "Modified")]
         public DateTimeOffset? ModifiedUTc { get; set; }
 
-        [ForeignKey("Category")]
-        public int CategoryId { get; set; }
+        [ForeignKey("Note")]
+        public int NoteId { get; set; }
+
     }
 }
